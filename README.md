@@ -2,19 +2,19 @@
 
 - Library yang digunakan :
 
-    phpqrcode
-    fpdf 
-    Web : Bootstrap + JQuery
+    1. phpqrcode
+    2. fpdf 
+    3. Web : Bootstrap + JQuery
 
 - Pendukung Installasi Aplikasi
 
-    XAMPP Version 5.5.38
-    Web Browser Terbaru (Chrome & Mozilla Firefox) 
-    Configurasi Database pada folder : inc/conf.php 
-    Username dan Password : admin
+    1. XAMPP Version 5.5.38
+    2. Web Browser Terbaru (Chrome & Mozilla Firefox) 
+    3. Configurasi Database pada folder : inc/conf.php 
+    4. Username dan Password : admin
 
 - Fitur Aplikasi :
 
-    Mengelola Data QR Code
-    Cetak QR Code HTML
-    Cetak QR Code PDF
+    1. Mengelola Data QR Code
+    2. Cetak QR Code HTML
+    3. Cetak QR Code PDF
